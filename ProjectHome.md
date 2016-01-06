@@ -1,0 +1,1 @@
+The FIX interface for Matlab allows developers to send orders to the Exhcanges / Brokers and receive streaming price information using the FIX protocol.
